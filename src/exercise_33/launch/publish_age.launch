@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="exercise_33" type="age_publisher.py" name="publish_age_node" output="screen" />
+</launch>

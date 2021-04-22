@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/robot_age/lib/python3/dist-packages/robot_age/msg/__init__.py

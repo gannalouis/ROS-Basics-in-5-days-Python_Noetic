@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/exercise_33/share/common-lisp/ros/exercise_33/msg/_package.lisp

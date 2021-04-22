@@ -1,0 +1,8 @@
+[31m[1mCMake Error[0m at /home/user/catkin_ws/src/robot_age/CMakeLists.txt:10 (find_package):
+  find_package called with invalid argument "rospy"
+
+
+[31m[1mCMake Error[0m at /home/user/catkin_ws/src/robot_age/CMakeLists.txt:51 (add_message_files):
+  Unknown CMake command "add_message_files".
+
+

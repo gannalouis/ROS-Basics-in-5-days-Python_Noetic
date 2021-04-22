@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/robot_age/share/roseus/ros/robot_age/manifest.l

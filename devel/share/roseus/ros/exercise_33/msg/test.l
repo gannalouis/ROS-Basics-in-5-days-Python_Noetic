@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/exercise_33/share/roseus/ros/exercise_33/msg/test.l

@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="topics_quiz" type="topics_quiz_mode.py" name="topics"  output="screen">
+    </node>
+</launch>

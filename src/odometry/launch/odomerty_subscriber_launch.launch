@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="odometry" type="odometry_subscriber.py" name="odometry_subscriber"  output="screen">
+    </node>
+</launch>
