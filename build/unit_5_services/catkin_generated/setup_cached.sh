@@ -8,6 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/user/catkin_ws/devel/.private/unit_5_services:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/user/catkin_ws/devel/.private/unit_5_services/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/user/catkin_ws/devel/.private/unit_5_services/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/user/catkin_ws/build/unit_5_services'
 export ROSLISP_PACKAGE_DIRECTORIES="/home/user/catkin_ws/devel/.private/unit_5_services/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/user/catkin_ws/src/unit_5_services:$ROS_PACKAGE_PATH"

@@ -450,7 +450,7 @@ gtest_hide_internal_symbols:BOOL=OFF
 gtest_main_LIB_DEPENDS:STATIC=general;gtest;
 
 //The directory containing a CMake configuration file for iri_wam_reproduce_trajectory.
-iri_wam_reproduce_trajectory_DIR:PATH=/home/simulations/public_sim_ws/devel/share/iri_wam_reproduce_trajectory/cmake
+iri_wam_reproduce_trajectory_DIR:PATH=iri_wam_reproduce_trajectory_DIR-NOTFOUND
 
 //Path to a library.
 lib:FILEPATH=/opt/ros/noetic/lib/libxmlrpcpp.so
