@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/services_quiz/lib/python3/dist-packages/BB8CustomServiceMessage/__init__.py

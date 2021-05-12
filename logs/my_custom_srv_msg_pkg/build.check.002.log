@@ -1,8 +1,0 @@
-[31m[1mCMake Error[0m at /home/user/catkin_ws/src/my_custom_srv_msg_pkg/CMakeLists.txt:56:
-  Parse error.  Function missing ending ")".  End of file reached.
-
-
-[36m--[0m Configuring incomplete, errors occurred!
-See also "/home/user/catkin_ws/build/my_custom_srv_msg_pkg/CMakeFiles/CMakeOutput.log".
-See also "/home/user/catkin_ws/build/my_custom_srv_msg_pkg/CMakeFiles/CMakeError.log".
-make: *** [Makefile:544: cmake_check_build_system] Error 1

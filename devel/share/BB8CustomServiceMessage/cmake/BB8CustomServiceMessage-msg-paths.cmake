@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/services_quiz/share/BB8CustomServiceMessage/cmake/BB8CustomServiceMessage-msg-paths.cmake

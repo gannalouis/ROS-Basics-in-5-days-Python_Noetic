@@ -1,0 +1,24 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target _my_custom_srv_msg_pkg_generate_messages_check_deps_MyCustomServiceMessage[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _my_custom_srv_msg_pkg_generate_messages_check_deps_MyCustomServiceMessage
+[35m[1mScanning dependencies of target my_custom_srv_msg_pkg_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target my_custom_srv_msg_pkg_generate_messages_py[0m
+[35m[1mScanning dependencies of target my_custom_srv_msg_pkg_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target my_custom_srv_msg_pkg_generate_messages_eus[0m
+[ 14%] Built target my_custom_srv_msg_pkg_generate_messages_cpp
+[ 42%] Built target my_custom_srv_msg_pkg_generate_messages_py
+[35m[1mScanning dependencies of target my_custom_srv_msg_pkg_generate_messages_lisp[0m
+[ 71%] Built target my_custom_srv_msg_pkg_generate_messages_eus
+[ 85%] Built target my_custom_srv_msg_pkg_generate_messages_nodejs
+[100%] Built target my_custom_srv_msg_pkg_generate_messages_lisp
+[35m[1mScanning dependencies of target my_custom_srv_msg_pkg_generate_messages[0m
+[100%] Built target my_custom_srv_msg_pkg_generate_messages
