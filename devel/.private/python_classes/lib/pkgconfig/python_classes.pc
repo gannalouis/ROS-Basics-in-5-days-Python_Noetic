@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/devel/.private/python_classes
+
+Name: python_classes
+Description: Description of python_classes
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
