@@ -1,0 +1,12 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _services_quiz_generate_messages_check_deps_BB8CustomServiceMessage
+[ 14%] Built target services_quiz_generate_messages_lisp
+[ 28%] Built target services_quiz_generate_messages_nodejs
+[ 42%] Built target services_quiz_generate_messages_cpp
+[ 71%] Built target services_quiz_generate_messages_py
+[100%] Built target services_quiz_generate_messages_eus
+[100%] Built target services_quiz_generate_messages

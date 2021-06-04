@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/action_quiz/lib/pkgconfig/action_quiz.pc

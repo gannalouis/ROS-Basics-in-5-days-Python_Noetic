@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/action_square/share/action_square/cmake/action_squareConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/action_square/lib/pkgconfig/action_square.pc

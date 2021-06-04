@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/devel/.private/action_quiz
+
+Name: action_quiz
+Description: Description of action_quiz
+Version: 0.0.0
+Cflags: -I/home/user/catkin_ws/devel/.private/action_quiz/include
+Libs: -L${prefix}/lib 
+Requires: rospy

@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: my_custom_action_message
+Description: Description of my_custom_action_message
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: rospy

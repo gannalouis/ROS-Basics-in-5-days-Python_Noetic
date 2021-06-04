@@ -1,0 +1,8 @@
+#goal
+int32 number
+---
+#result
+float32 random_num
+---
+#feedback
+float32 return_value

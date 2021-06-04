@@ -31,7 +31,7 @@ client = actionlib.SimpleActionClient('/ardrone_action_server', ArdroneAction)
 client.wait_for_server()
 
 # creates a goal to send to the action server
-goal = ArdroneGoal()
+goal = ArdroneGoal()    # goal can be done using publishing topics
 goal.nseconds = 10 # indicates, take pictures along 10 seconds
 
 # sends the goal to the action server, specifying which feedback function

@@ -3,7 +3,7 @@
 import rospy
 import time
 import actionlib
-from ardrone_as.msg import ArdroneAction, ArdroneGoal, ArdroneResult, ArdroneFeedback
+from ardrone_as.msg import ArdroneAction, ArdroneGoal, ArdroneResult, ArdroneFeedback # this is the server
 #importing random stuff 
 
 nImage = 1 # global vairable 
