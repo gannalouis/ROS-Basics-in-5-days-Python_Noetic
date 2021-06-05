@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/simple_pub_sub/share/simple_pub_sub/cmake/simple_pub_subConfig.cmake

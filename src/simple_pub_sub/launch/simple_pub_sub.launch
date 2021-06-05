@@ -1,0 +1,5 @@
+  
+<launch>
+    <node pkg="simple_pub_sub" type="simple_publisher.py" name="simple_publisher" output="screen" />
+    <node pkg="simple_pub_sub" type="simple_subscriber.py" name="simple_subscriber" output="screen" />
+</launch>

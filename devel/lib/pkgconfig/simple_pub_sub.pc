@@ -1,0 +1,1 @@
+/home/user/catkin_ws/devel/.private/simple_pub_sub/lib/pkgconfig/simple_pub_sub.pc
