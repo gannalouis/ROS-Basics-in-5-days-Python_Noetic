@@ -15,7 +15,18 @@ In the course there are several assignment where I was required to move robots, 
 
 ## COURSE OUTLINE 
 
-1. A numbered list
-    1. A nested numbered list
-    2. Which is numbe
-2. Which is numbered
+* ROS Basics
+    * Basic Concepts
+    * Move a Robot with ROS
+    * What's a ROS Package
+    * What is a launch file
+    * Create a ROS Package
+    * Your first ROS program
+    * ROS Nodes
+    * Compiling a ROS Package
+    * Parameter Server
+    * ROS Core
+    * Environment Variables
+
+Topic Publisher
+ROS Messages
