@@ -2,7 +2,7 @@
 
 ## DESCRIPTION:
 
-This is an introduction Python course to some ROS basics such as: 
+This is an introduction Python course from The Construct for some ROS basics such as: 
 
 ```bash
 1) Publishers, Subscribers, custom messages
