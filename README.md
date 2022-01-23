@@ -11,7 +11,7 @@ This is an introduction Python course to some ROS basics such as:
 5. ROS Debugging Tools
 ```
 
-In the course there are several assignment where I was required to move robots, read their sensor data, and using that data make intelligent decisions. 
+In the course there are several assignment where you are required to move robots, read their sensor data, and using that data make intelligent decisions. 
 
 ## COURSE OUTLINE 
 
