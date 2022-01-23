@@ -28,5 +28,40 @@ In the course there are several assignment where I was required to move robots, 
     * ROS Core
     * Environment Variables
 
-Topic Publisher
-ROS Messages
+* ROS Topics
+   * Topic Publisher
+   * ROS Messages
+   * Topic Subscriber
+   * Custom Topic Message
+   * ROS Topics Mini Project
+   
+* ROS Services 
+   * Topics - Services - Actions
+   * Services Introduction
+   * How to call a ROS Service
+   * How to give a Service
+   * How to create your own service message
+   * Custom Service Compilation
+   
+* Python Classes
+   * Introduction to Python Classes and Object Oriented Programming.
+   * How to use Python Classes in ROS
+ 
+* ROS Actions
+   * Playing with the Quadrotor simulation
+   * What are ROS Actions
+   * Calling an Action Server
+   * Performing other tasks while the Action is in progress
+   * The axclient
+   * Writing an Action Server
+   * Creating your own Action Server Message
+   * Custom Action Messages compilation
+
+* Debugging tools 
+   * ROS What The F*ck
+   * ROS Debugging Messages and RQT-Console
+   * Plot topic data and RQT Plot
+   * Node Connections and RQT graph
+   * Record experimental data and ROSBags
+   * Visualize Complex data and RViz
+ 
