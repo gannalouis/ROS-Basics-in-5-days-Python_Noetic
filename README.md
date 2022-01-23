@@ -15,7 +15,7 @@ In the course there are several assignment where I was required to move robots, 
 
 ## COURSE OUTLINE 
 
- Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
+1. A numbered list
+    1. A nested numbered list
+    2. Which is numbe
+2. Which is numbered
